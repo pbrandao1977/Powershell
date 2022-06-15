@@ -1,4 +1,4 @@
-# Importsr o modulo de Active Directory para o PowerShell
+# Importar o modulo de Active Directory para o PowerShell
 Import-Module ActiveDirectory
   
 # Guardar a informação contida no ficheiros csv na variavel $ADUsers 
